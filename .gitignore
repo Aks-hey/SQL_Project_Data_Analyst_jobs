@@ -1,0 +1,18 @@
+/.vscode
+/ALTER TABLE job_applied.sql
+/Create Table job_applied.sql
+/csv_files
+/CTE.sql
+/DataAnalystCompanies.csv
+/DataAnalystCompanies.sql
+/DataAnalystCompanies_1.csv
+/DataAnalystCompanies_1.xlsx
+/DataAnalystIndiaCompanies.csv
+/DataAnalystIndianCompanies.sql
+/DataAnalystRemoteCompanies.csv
+/INSERT INTO job_applied.sql
+/postgres.session.sql
+/remote_job_skills.sql
+/SELECT.sql
+/test.sql
+/UPDATE job_applied.sql
